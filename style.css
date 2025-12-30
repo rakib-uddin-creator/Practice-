@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+padding: 0px;
+}
+nav{
+  height: 50px;
+  width: 100%;
+  background-color: rgb(40,40,40);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0px,20px,0px,20px;
+  
+}
+.logo{
+  color: white;
+  font-size: 1.98rem;
+  font-weight: bolder;
+  background-color: rgb(70,90,50);
+  width: 20%;
+  height: 90%;
+  margin: 10px,0px,10px,0px;
+  text-align: center;
+  border-radius: 10px;
+  
+  
+  
+}
+
+.icons a {
+  text-decoration: none;
+  color: whitesmoke;
+  justify-content: space-evenly;
+  padding-left: 50px;
+  font-size: 1rem;
+  font-weight: bold;
+  
+}
+.hero-section{
+  display: flex;
+  
+}
+.left-text{
+  height: 400px;
+  background-color: royalblue;
+  width: 50%;
+  
+  
+}
+.right-png{
+  height: 400px;
+  background-color: bisque;
+  width: 50%;
+}
+
+.hi{
+  font-size: 4.5rem;
+  color: rgb(90,50,20);
+  margin-left: 30px;
+  padding: 10px;
+}
+.descripsion{
+  font-size: 2rem;
+  margin-left: 20px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
